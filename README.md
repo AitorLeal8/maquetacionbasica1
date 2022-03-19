@@ -4,8 +4,6 @@ _Maquetacion basica de una web estatica, sin usar flexbox, grid ni responsive, s
 
 ## Construido con 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
-
 * [HTML](https://developer.mozilla.org/es/docs/Web/HTML) 
 * [CSS](https://developer.mozilla.org/es/docs/Web/CSS) 
 
