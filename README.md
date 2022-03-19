@@ -10,4 +10,4 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 * [CSS](https://developer.mozilla.org/es/docs/Web/CSS) 
 
 ---
-⌨️ con ❤️ por [Aitor Leal](https://github.com/AitorLeal8) 😊
+⌨️ por [Aitor Leal](https://github.com/AitorLeal8) 😊
